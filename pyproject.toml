@@ -1,0 +1,7 @@
+[project]
+name = "neural-dispatch"
+version = "0.1.0"
+description = "Use metadata-rich embeddings to connect your user intents with the right tools in a single pass"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
